@@ -7,23 +7,23 @@
   - local: chapter0/community
     title: Entra nella community
 
-# - title: Capitolo 1. Lavorare con dati audio
-#   sections:
-#   - local: chapter1/introduction
-#     title: Cosa imparerai
-#   - local: chapter1/audio_data
-#     title: Introduzione ai dati audio
-#   - local: chapter1/load_and_explore
-#     title: Carica ed esplora un dataset audio
-#   - local: chapter1/preprocessing
-#     title: Preelaborazione di dati audio
-#   - local: chapter1/streaming
-#     title: Streaming di dati audio
-#   - local: chapter1/quiz
-#     title: Quiz
-#     quiz: 1
-#   - local: chapter1/supplemental_reading
-#     title: Letture e risorse supplementari
+- title: Capitolo 1. Lavorare con dati audio
+  sections:
+  - local: chapter1/introduction
+    title: Cosa imparerai
+  - local: chapter1/audio_data
+    title: Introduzione ai dati audio
+  - local: chapter1/load_and_explore
+    title: Carica ed esplora un dataset audio
+  - local: chapter1/preprocessing
+    title: Preelaborazione di dati audio
+  - local: chapter1/streaming
+    title: Streaming di dati audio
+  - local: chapter1/quiz
+    title: Quiz
+    quiz: 1
+  - local: chapter1/supplemental_reading
+    title: Letture e risorse supplementari
 
 # - title: Capitolo 2. Una introduzione gentile agli applicativi audio
 #   sections:
